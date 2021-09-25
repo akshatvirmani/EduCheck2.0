@@ -317,9 +317,11 @@ header .navbar a:hover{
     padding:2rem;
   }
 
-  button {
-    max-width: 350px;
-}
+  .button {
+    left: 188px;
+    justify-content: center;
+  }
+
  
 .detailsection {
    padding: 0 !important; 
@@ -357,7 +359,7 @@ header .navbar a:hover{
 }
 
 .nav-item {
-    margin: 2.5rem 0;
+    margin: 3.0rem 0;
 }
 
 .hamburger {
