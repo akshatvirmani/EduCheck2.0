@@ -318,8 +318,11 @@ header .navbar a:hover{
   }
 
   .button {
-    left: 188px;
-    justify-content: center;
+    display: inline-block;
+    float: none !important;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%);
   }
 
  
