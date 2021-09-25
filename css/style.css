@@ -430,13 +430,11 @@ li {
   list-style: none;
 }
 
-
 .nav-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
 .nav-item {
   font-size: 10px;;
   margin-left: 2rem;
